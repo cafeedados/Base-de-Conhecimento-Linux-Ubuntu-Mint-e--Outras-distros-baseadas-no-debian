@@ -38,7 +38,7 @@ Recomendo que baixe o workbench pela janela de aplicativos.
 
 Normalmente quando vai logar nos deparamos com o seguinte error:
 
-<img src="/img/01.png">
+<img src="img/01.png">
 
 e iremos entrar no terminal do MySql com o comando:
 
