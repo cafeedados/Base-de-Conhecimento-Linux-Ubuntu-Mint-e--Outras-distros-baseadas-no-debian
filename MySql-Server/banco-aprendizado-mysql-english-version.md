@@ -39,7 +39,7 @@ I recommend that you download the workbench through the application window.
 
 Usually when you log in we encounter the following error:
 
-<img src="/img/01.png">
+<img src="img/01.png">
 
 and we will enter the MySql terminal with the command:
 
