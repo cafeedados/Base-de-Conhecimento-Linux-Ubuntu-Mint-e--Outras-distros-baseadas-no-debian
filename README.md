@@ -2,17 +2,23 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40devpedrolourenco-orange)](https://www.instagram.com/devpedrolourenco/)
 
- Base de conhecimento pessoal, linux ubuntu, mint e outras distros baseadas no debian. 
+ Base de conhecimento, linux ubuntu, mint e outras distros baseadas no debian. 
 
  Essa base de conhecimentos tem como objetivo consulta pessoal ou compartilhamento para consulta de instalações que tive dificuldade ou que acho bacana postar nessa base de conhecimento. 
 
  Estou disponibilizando ela em português minha lingua nativa e em ingles para ajudar não somente eu e pessoas ligadas a mim mas também a comunidade open source e desenvolvedores. 
  
- Espero que gostem desse meu projeto. 
+ Espero que gostem desse meu projeto, quem quiser ajudar com essa base somando com contribuições pode seguir as orientações:  [Contribua com o Projeto](/Contribua/contribua-com-o-projeto.md).
 
  Abaixo tem o sumário dos tópicos que irei postando: 
 
 ## Sumario
+
+### SOFTWARES
+
+- [Instalação e Possiveis erros Spotfy](/Softwares/Spotfy/spotfy-instalacao-erros.md)
+
+### PROGRAMAÇÃO
 
  - [Instalação do MySQL e Workbench](/MySql-Server/banco-aprendizado-mysql.md)
 
@@ -31,6 +37,12 @@ Personal knowledge base, linux ubuntu, mint and other debian-based distros.
 
 ## Summary
 
- - [Instalação do MySQL e Workbench](/MySql-Server/banco-aprendizado-mysql-english-version.md)
+### SOFTWARES
+
+- [Instalação e Possiveis erros Spotfy](/Softwares/Spotfy/spotfy-instalacao-erros-en.md)
+
+### PROGRAMMING
+
+- [Instalação do MySQL e Workbench](/MySql-Server/banco-aprendizado-mysql-english-version.md)
 
  

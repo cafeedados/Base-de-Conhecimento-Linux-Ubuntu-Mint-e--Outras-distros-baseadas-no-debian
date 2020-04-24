@@ -53,4 +53,4 @@ e depois vamos fazer a identificação da senha em root
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'SuaSenha';
 
 ```
-
+<hr>
