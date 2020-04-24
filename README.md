@@ -1,6 +1,6 @@
 # Base de Conhecimento Linux Ubuntu/Mint 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40devpedrolourenco-orange)](https://www.instagram.com/devpedrolourenco/)
+
 
  Base de conhecimento, linux ubuntu, mint e outras distros baseadas no debian. 
 
